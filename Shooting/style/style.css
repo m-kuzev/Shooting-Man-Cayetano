@@ -1,0 +1,13 @@
+html, body, ul, li, a {
+    margin: 0;
+    padding: 0;
+    background-color: #1E1F21;
+}
+
+#game-wrapper {
+    margin: 10px 0;
+}
+
+#c {
+    background-color: #252729;
+}
